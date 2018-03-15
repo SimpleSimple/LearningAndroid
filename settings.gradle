@@ -1,0 +1,1 @@
+include ':app', ':ExtendBaseAdapterTest', ':SimpleAdapterTest', ':AuctionClient', ':AndroidThreadTest'
